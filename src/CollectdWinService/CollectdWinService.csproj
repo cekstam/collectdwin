@@ -112,6 +112,8 @@
     <Compile Include="Aggregator.cs" />
     <Compile Include="AmqpPlugin.cs" />
     <Compile Include="config\AmqpPluginConfig.cs" />
+    <Compile Include="Graphitelugin.cs" />
+    <Compile Include="config\GraphitePluginConfig.cs" />
     <Compile Include="config\CollectdWinConfig.cs" />
     <Compile Include="config\StatsdPluginConfig.cs" />
     <Compile Include="config\WindowsPerformanceCounterPluginConfig.cs" />
